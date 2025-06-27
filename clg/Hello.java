@@ -10,6 +10,7 @@ class Intrest
 	}
 }
 
+
 class Max
 {
 	int a ,b,c;
