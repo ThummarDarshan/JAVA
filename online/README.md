@@ -1,4 +1,4 @@
-# 🧠 Java OOP Mini Project
+# 🧠 Java 
 
 Welcome to our **Java OOP** project! This is a beginner-friendly, educational project designed to help college students understand the **core pillars of Object-Oriented Programming** — not just in theory, but through fun, hands-on coding.
 
@@ -11,10 +11,4 @@ This project helps you master:
 🔹 **Polymorphism** – Same method, different vibes  
 🔹 **Abstraction** – Hide the complexity, show the purpose  
 🔹 **Interfaces** – Java’s version of “multiple inheritance”
-
-## 🏗️ Project Overview
-
-This project simulates a **Virtual Zoo**, where different animals exhibit behaviors using OOP principles.
-
-### 👨‍💻 Files & Classes
 
