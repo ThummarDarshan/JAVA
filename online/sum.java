@@ -1,5 +1,6 @@
 /*
   next take only single word input
+  
   nextline() take all the input till the end of line
   nextInt() takes only integer input
   nextDouble() takes only double input
