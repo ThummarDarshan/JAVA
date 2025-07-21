@@ -1,3 +1,4 @@
+
 public class patten{
     public static void main(String[] args) {
         int i;
