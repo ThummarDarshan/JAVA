@@ -1,4 +1,3 @@
-
 import java.util.Scanner; // this is packge for the scanner class and import the scanner class
 import java.util.Scanner;
 
