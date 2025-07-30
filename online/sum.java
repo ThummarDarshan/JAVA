@@ -1,3 +1,4 @@
+
 /*
   next take only single word input
   
