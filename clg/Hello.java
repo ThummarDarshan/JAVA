@@ -1,4 +1,3 @@
-
 import java.util.Scanner; // this is packge for the scanner class and import the scanner class
 import java.util.Scanner;
 
@@ -50,3 +49,4 @@ public class Hello //for the run code we need to smae name of class and file nam
 		System.out.println("Max number is : " + m.max(a,b,c));
 	}
 }
+
