@@ -1,3 +1,13 @@
+/*
+✅ Summary
+
+this → points to the current object of the class.
+        Used to access instance variables, call another constructor, or pass current object.
+
+super → points to the parent class object.
+        Used to call parent constructors, methods, or fields.
+*/
+
 //Call another constructor in the same class
 
 class Student {
